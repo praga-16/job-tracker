@@ -1,0 +1,15 @@
+/* frontend/src/styles.css */
+body { font-family: Arial, sans-serif; background:#f7f7f8; margin:0; padding:20px; }
+.container { max-width:1000px; margin:0 auto; background:white; padding:20px; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.06); }
+.top-row { display:flex; gap:20px; align-items:flex-start; margin-bottom:18px; }
+.filters { margin-left:auto; display:flex; gap:8px; align-items:center; }
+.job-card { border:1px solid #eee; padding:12px; border-radius:6px; margin-bottom:10px; display:flex; justify-content:space-between; align-items:center;}
+.job-info { display:flex; flex-direction:column; gap:4px;}
+.actions button { margin-left:8px; }
+.form-row { display:flex; gap:8px; align-items:center; }
+input, select, textarea { padding:8px; border-radius:4px; border:1px solid #ddd; width:100%; box-sizing:border-box; }
+button { padding:8px 10px; border-radius:6px; border:none; cursor:pointer; }
+button.primary { background:#2563eb; color:white; }
+.modal { position:fixed; left:0; right:0; top:0; bottom:0; display:flex; align-items:center; justify-content:center; background:rgba(0,0,0,0.4); }
+.modal-content { background:white; padding:20px; border-radius:8px; width:90%; max-width:600px; }
+.small { font-size:0.85rem; color:#555; }
