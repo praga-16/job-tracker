@@ -109,22 +109,26 @@ Body:
 ```
 
 ### 📸 Screenshots:
+### 🧑‍💻 Register Page
 <img width="1919" height="1022" alt="image" src="https://github.com/user-attachments/assets/14fc758f-d3ed-4dfe-9e14-0beedc2defef" />
-
+### 🔐 Login Page
 <img width="1919" height="1025" alt="image" src="https://github.com/user-attachments/assets/a259e30a-be10-48d3-963a-96d2f3ea6df6" />
+### Add Job Form
 <img width="1919" height="1021" alt="image" src="https://github.com/user-attachments/assets/f5060f29-4e93-47e2-aa27-e87a521e45cf" />
+
 <img width="1918" height="1026" alt="image" src="https://github.com/user-attachments/assets/b037cc4c-2f47-42b2-b05c-4c5c55ee0665" />
+### ✏️ Edit Job Form
 <img width="1919" height="1027" alt="image" src="https://github.com/user-attachments/assets/cf451e19-c379-49bb-a495-072dc5068803" />
 <img width="1919" height="1026" alt="image" src="https://github.com/user-attachments/assets/296bc42b-c096-42d1-a198-1c372668541b" />
 
 ## backend:
-
+ users info
 <img width="1919" height="1021" alt="image" src="https://github.com/user-attachments/assets/b7547349-eceb-4416-b40f-7169ccb6ce0d" />
-
+### job info
 <img width="1919" height="1016" alt="image" src="https://github.com/user-attachments/assets/4f61673e-9aaf-4258-a4c1-65aaeb8909e7" />
 
-### 💻 Deployment
-Backend (Render)
+ 💻 Deployment
+## Backend (Render)
 
 Connect your GitHub repo → Root Directory: backend
 
@@ -140,7 +144,7 @@ Build Command: npm install
 
 Start Command: npm start
 
-Frontend (Netlify)
+## Frontend (Netlify)
 
 Import repo from GitHub
 
